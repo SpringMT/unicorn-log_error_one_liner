@@ -5,10 +5,10 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 Gem::Specification.new do |spec|
   spec.name          = "unicorn-log_error_one_liner"
   spec.version       = "0.0.1"
-  spec.authors       = ["haruyama-makoto"]
-  spec.email         = ["makoto.haruyama@dena.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.authors       = ["Spring_MT"]
+  spec.email         = ["today.is.sky.blue.sky@gmail.com"]
+  spec.summary       = %q{Write a short summary. Required.}
+  spec.description   = %q{Write a longer description. Optional.}
   spec.homepage      = ""
   spec.license       = "MIT"
 

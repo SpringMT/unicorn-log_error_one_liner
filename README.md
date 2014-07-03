@@ -1,4 +1,4 @@
-# Unicorn::LogErrorOneLiner
+# Unicorn::LogErrorOneLiner [![Build Status](https://travis-ci.org/SpringMT/unicorn-log_error_one_liner.svg)](https://travis-ci.org/SpringMT/unicorn-log_error_one_liner)
 
 TODO: Write a gem description
 
