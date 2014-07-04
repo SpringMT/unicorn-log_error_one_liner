@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "unicorn-log_error_one_liner"
-  spec.version       = "0.0.1"
+  spec.version       = "0.0.2"
   spec.authors       = ["Spring_MT"]
   spec.email         = ["today.is.sky.blue.sky@gmail.com"]
   spec.summary       = %q{Write a short summary. Required.}
